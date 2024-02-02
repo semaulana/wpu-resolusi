@@ -3,7 +3,10 @@ rencana konten wpu
 -javascript
 *ES6
 *Framework Javascript
+^vue
 *Struktur data dasar
 -php frameworks
+^laravel
 -intervew
 -vlog
+-phyton
